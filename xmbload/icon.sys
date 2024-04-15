@@ -1,0 +1,18 @@
+PS2X
+title0=PS2 Browser
+title1=
+bgcola=64
+bgcol0=220,70,90
+bgcol1=220,20,60
+bgcol2=220,20,60
+bgcol3=220,70,90
+lightdir0=0.5,0.5,0.5
+lightdir1=0.0,-0.4,-0.1
+lightdir2=-0.5,-0.5,0.5
+lightcolamb=61,61,61
+lightcol0=122,122,109
+lightcol1=66,84,127
+lightcol2=35,35,96
+uninstallmes0=
+uninstallmes1=
+uninstallmes2=

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MANUAL version="1.0">
+	<IMG id="bg" src="./image/bg.png" />
+	<MENUGROUP id="TOP">
+		<TITLE id="TOP-TITLE" label="PS2 Browser" />
+	</MENUGROUP>
+</MANUAL>
