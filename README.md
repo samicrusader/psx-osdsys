@@ -18,6 +18,7 @@ Original files come from <https://obscuregamers.com/threads/psx-desr-7000-dual-b
 
 - Create file path in root of flash drive named `\__Headers\PP.BIEXEC-SYSTEM`
 - Copy [icon.sys](xmbload/icon.sys), [list.ico](xmbload/list.ico), [system.cnf](xmbload/system.cnf) from [xmbload](xmbload) folder to flash drive folder `\__Headers\PP.BIEXEC-SYSTEM\`
+![explorer 06242024_1719270017](https://github.com/samicrusader/psx-osdsys/assets/89530830/42b9d344-9440-48a4-81d8-804e26c90170)
 - Download latest [wLaunchELF_ISR_HDD](https://github.com/israpps/wLaunchELF_ISR_HDD) build `ULE_ISR_HDD.ELF`: <https://github.com/israpps/wLaunchELF_ISR_HDD/releases/tag/latest> and run on console
 - Go into `MISC`/`HddManager`, hover your `PP.BIEXEC-SYSTEM` partition, press R1, then go to `Inject` and let it go.
 - Shut PSX off and then turn it back on and go to games section then run "PS2 Browser"
